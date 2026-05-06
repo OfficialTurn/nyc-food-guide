@@ -47,5 +47,3 @@ I'm from New Jersey but I visit New York all the time because the food is just o
 | Smorgasburg           | Fun weekend vibes          | Sunday              |
 | Queens Night Market   | Super diverse              | Saturday night      |
 | Grand Central Market  | Quick bite before heading back | Lunch time     |
-
----
